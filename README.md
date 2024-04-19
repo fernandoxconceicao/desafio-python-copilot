@@ -1,2 +1,3 @@
-# desafio-python-copilot
-Desafio de Código em Python Utilizando o Github Copilot.
+# Desafios de Python com Github Copilot
+
+Este projeto apresenta uma série de desafios de codificação em Python, nos quais utilizei o Github Copilot para auxiliar na escrita do código. Os desafios abrangem uma variedade de conceitos, desde manipulação de strings até cálculos mais complexos, como médias de notas e verificação de palíndromos. O objetivo é explorar as capacidades de sugestão de código do Github Copilot e praticar a resolução de problemas de programação em Python (Desafio de código DIO).
